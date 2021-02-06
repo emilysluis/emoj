@@ -22,7 +22,7 @@ Project #37 in the [Virtual Open House of UVic 499 Course Projects](https://www.
 ### Step 1: Clone or fork the repository and change current directory
 
 ```bash
-git clone https://github.com/miroesli/emoj.git
+git clone https://github.com/emilysluis/emoj.git
 cd emoj
 ```
 
